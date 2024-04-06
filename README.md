@@ -19,7 +19,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ```
 
 import pandas as pd
-data = pd.read_csv("D:/introduction to ML/jupyter notebooks/mama/Salary.csv")
+data = pd.read_csv("./Salary.csv")
 data.head()
 ```
 ### Output:
