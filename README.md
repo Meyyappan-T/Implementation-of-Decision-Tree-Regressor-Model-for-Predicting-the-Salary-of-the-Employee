@@ -43,9 +43,12 @@ r2=metrics.r2_score(y_test,y_predict)
 r2
 dt.predict([[5,6]])
 ```
-### Output:
+## Output:
+### Printing the first 5 lines of the csv 
 ![image](https://github.com/arbasil05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144218037/6919eca6-d510-49bb-9881-5fe5d3d504b5)
+### Checking null values
 ![image](https://github.com/arbasil05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144218037/eddd0d7f-744f-431c-8d35-03917e9ee404)
+### 
 ![image](https://github.com/arbasil05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144218037/d9717383-87aa-45f9-b34e-9c8787f7667f)
 ![image](https://github.com/arbasil05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144218037/e570f14e-a2b2-4612-ab0f-0a3a02b71964)
 ![image](https://github.com/arbasil05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144218037/c303810d-5cec-400b-b239-ce22d9281b9c)
